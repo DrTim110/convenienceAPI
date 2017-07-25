@@ -1,0 +1,25 @@
+module.exports = {
+    DEVICE_MASTER_API_HOST: 'api-stage.sndrtech.com',
+    DEVICE_MASTER_API_PORT: '443',
+    DEVICE_MASTER_API_VERSION: '1.0',
+    DEVICE_MASTER_DEPLOYMENT: 1,
+    DEVICE_MASTER_ACTIVE: true,
+    DEVICE_TYPE: 'tablet',
+    DEVICE_MANUFACTURER: 'Jacs',
+    DEVICE_GROUP: 'stage',
+    DEVICE_DEPLOYMENT_CODE: 'SNI',
+    DEVICE_API_SCHEME: 'https',
+    ORION_USER: 'ssadm',
+    ORION_PASSWORD: '123456',
+    // ORION_DB_NAME: 'drvr_workmgr_db',
+    // ORION_DB_HOST: 'db-workmgrstg2.schneider.com',
+    // ORION_DB_USER: 'ServiceUser',
+    // ORION_DB_PASSWORD: '$3rvic3u$3r',
+    ORION_HOST: 'https://api-stage.sndrtech.com',
+
+    DEVICE_MASTER_HOST_PORT: 80,
+    DEVICE_MASTER_CSV_FILENAME: 'tablet_stage_master.csv',
+    DEVICE_MASTER_HOST: 'https://devices.sndrtech.com',
+    DEVICE_MASTER_USER: 'master',
+    DEVICE_MASTER_PASSWORD: 'qGzdIhzE8g6CkgQD'
+};
